@@ -1,0 +1,29 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+}
+
+img {
+    max-width: 70%;
+}
+
+body {
+    text-align: center;
+}
+
+div {
+    max-width: 20%;
+    display: inline-block;
+    justify-content: center;
+}
+
+.list-photo {
+    width: 100%;
+}
